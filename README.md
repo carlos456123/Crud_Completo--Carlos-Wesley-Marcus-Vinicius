@@ -1,13 +1,13 @@
 # CRUD com FastAPI
 
-## 👥 Integrantes
+##  Integrantes
 
 * Carlos Wesley
 * Marcus Vinicius
 
 ---
 
-## 🚀 Instalação e Execução
+##  Instalação e Execução
 
 Instale as dependências:
 
@@ -29,7 +29,7 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## 🧱 Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto foi organizado em módulos para melhor organização e manutenção:
 
@@ -83,7 +83,7 @@ Todas as rotas retornam dados no formato **JSON**, conforme padrão de APIs REST
 
 ---
 
-## 📚 Funcionalidades da API
+##  Funcionalidades da API
 
 A API permite:
 
@@ -95,6 +95,6 @@ A API permite:
 
 ---
 
-## 🧠 Observação
+##  Observação
 
 O projeto foi desenvolvido com base no conteúdo estudado em aula.
